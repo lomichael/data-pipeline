@@ -1,4 +1,3 @@
-# src/main/python/data_processing.py
 from pyspark.sql import SparkSession
 
 def main():

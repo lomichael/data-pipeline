@@ -1,4 +1,3 @@
-# scripts/deploy.sh
 #!/bin/bash
 
 # Set variables
